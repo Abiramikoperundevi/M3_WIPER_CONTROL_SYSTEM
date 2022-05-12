@@ -15,3 +15,51 @@ the windshield wiper had reached mass production phase! By the early 1920s, the 
 to drive the mechanism. Vacuum Wipers were great, except that their speed would vary according to engine load and speed. By the early 60s vacuum wipers 
 were replaced by an electric drive, and in the mid-60s. teh intermittent wiper was invented (and was initially rejected by Ford).
 
+# FEATURES
+  1.  It shall lock the car when the button is pressed once
+  2.  It shall open the car when the button is pressed twice
+  3.  It shall wiper on and it moves clock wise direction and when the button is pressed thrice
+  4.  It shall wiper off and it moves anti clock wise direction and when the button is pressed four times
+  5.  It shall wiper complete one cycle when the button is pressed five times.
+
+# AIM & OBJECTIVE
+
+* To prevent the accident during rain conditions
+* To remove the raindrops, dust, oil or water from the windshield.
+
+# RESEARCH
+
+Application is researched from various resource like from Google, Youtube and research papers and then developed one application model that is Wiper Control System
+
+# END GOALS
+
+* Avoid accidents and prevent safety environment.
+* Clean Visions in Winter and rainy seasons.
+
+# SOFTWARE REQUIREMENTS
+
+* STM32 CUBE IDE
+
+# COMPONENTS
+
+* STM32F407VG Microcontroller Board
+
+# DESCRIPTION
+## STM32F407VG
+
+The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrollers capabilities to mak eit simple for users to create audio-based application. 
+It comes with an ST-LINK embedded debug tool, an ST-MEMS digital accelerometer, a digital microphone, an audio DAC with integrated class D speaker driver, LEDs, pushbuttons and USB OTG micro-AB connector. Ethernet connectivity, an LCD Display and other features have been added ti the STM32F4 DISCOVERY kit. the STM32F405xx and STM32F407xx families are built around the high performance Arm cortex -M4 bit RISC core, which runs at up to 168 MHz.
+
+## FEATURES OF STM32F407VG MICROCONTROLLER
+
+* Up to 1 Mbyte of flash memory
+* Up to 192+4 Kbytes of SRAM including 64-Kbytes of CCM (Core Coupled Memory) data RAM.
+* 512 bytes of OTP memory.
+* Flexible static memory controller supporting Compact flash SRAM, PSRAM, NOR and NAND memories
+
+
+# WORKING PRINCIPLE
+
+Assume that the automobiles is the microcontroller. If the button is hit, the first led (red) will turn on, clicking again the wiper will start and the second led (blue) will turn in for a desired rate. If the button os pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. the microcontroller (vehicle) is turned off after the fifth click.
+
+

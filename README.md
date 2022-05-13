@@ -39,3 +39,14 @@
 ### UNIT TESTING
 
 [![Unit testing](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Unit_Testing.yml)
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`0_Abstract`       | Documents detailing about the project
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation and deoxygen document
+`4_TestCases`      |test plans and procedures
+`5_Report`         |Document consisting the evaluation sheet
+`6_Output`         | Output images and Videos

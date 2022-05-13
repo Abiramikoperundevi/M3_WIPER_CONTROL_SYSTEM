@@ -51,6 +51,15 @@ Application is researched from various resource like from Google, Youtube and re
 * Avoid accidents and prevent safety environment.
 * Clean Visions in Winter and rainy seasons.
 
+# COMPONENTS AND SUPPLIES
+
+1. STM32F407 Discovery Board
+2. Push Button
+3. LEDS
+4. Resistors
+5. Power Supply
+
+
 # SOFTWARE REQUIREMENTS
 
 * STM32 CUBE IDE
@@ -160,4 +169,20 @@ Assume that the automobiles is the microcontroller. If the button is hit, the fi
 | LR02 | If the user pressed the Button TWICE - OFF LED RED| Implemented |
  LR03 | If the user pressed the Button THREE times - ON BLUE, GREEN, ORANGE | Implemented |
 | LR04 | If the user pressed the Button FOUR times - IN ORANGE, GREEN, BLUE | Implemented |
+
+# ADVANTAGES
+
+* To save money during wet seasons turn off the irrigation system. Electricity bills are lowered as a consequence
+* Rain sensors store water during rain events allowing it to be available throughtout the summer and winter
+* As a consequence, rain sensor-based equipment like vehicle wipers and irrigation systems last longer since they only work when needed 
+* it is simple to use
+* As a consequence less energy is consumed
+* Rain sensors based systems are extremely simple to install
+* Individual rain sensors are fairly inexpensive.
+
+# DISADVANTAGE
+
+* When water falls squarely on the rain sensor. the mechanism activated
+* the entire system cost rises when more components including a rain sensor are required.
+* Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
 

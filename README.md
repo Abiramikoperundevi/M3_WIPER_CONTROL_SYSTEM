@@ -25,6 +25,7 @@
 ### ANALYSIS
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f09f9bfcf966480d9c904a483a080a8d)](https://app.codacy.com/gh/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM?utm_source=github.com&utm_medium=referral&utm_content=Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM&utm_campaign=Badge_Grade_Settings)
 [![Analysis](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Analysis.yml)
 
 ### BUILD-LINUX

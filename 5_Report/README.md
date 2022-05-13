@@ -176,6 +176,30 @@ Assume that the automobiles is the microcontroller. If the button is hit, the fi
  LR03 | If the user pressed the Button THREE times - ON BLUE, GREEN, ORANGE | Implemented |
 | LR04 | If the user pressed the Button FOUR times - IN ORANGE, GREEN, BLUE | Implemented |
 
+# OUTPUT IMAGES
+
+## USER BUTTON AND HOLD IT FOR TWO SECOND
+
+![red Led on](https://user-images.githubusercontent.com/101585225/168333816-f217406a-bed0-4b6a-bc1f-6fda2f8fc86f.png)
+
+## WIPER SPEED LOW
+![Blue LED on](https://user-images.githubusercontent.com/101585225/168334479-5c60d91a-f347-44de-a20a-02f7db866d4d.png)
+
+
+## WIPER SPEED MEDIUM
+![green Led on](https://user-images.githubusercontent.com/101585225/168333998-27a74d33-05d2-491f-ab19-bbe0f3ea5afb.png)
+
+## WIPER SPEED HIGH
+
+![orange led on](https://user-images.githubusercontent.com/101585225/168334037-a2cf8c3e-12e6-4517-90e8-23c1dc317993.png)
+
+## USER BUTTON IS PRESSED AND HOLD IT FOR TWO SECOND AND RED LED IS OFF
+![board](https://user-images.githubusercontent.com/101585225/168334173-f14d0477-8c56-41c4-b1d5-90e53017b8a2.png)
+
+## WIPER SYSTEM
+![Wiper_System](https://user-images.githubusercontent.com/101585225/168334247-95789497-70ba-4259-be65-1fb7579b4311.png)
+
+
 # ADVANTAGES
 
 * To save money during wet seasons turn off the irrigation system. Electricity bills are lowered as a consequence

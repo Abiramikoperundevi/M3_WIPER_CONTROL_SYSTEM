@@ -20,6 +20,8 @@ in the safety of the drivers because wiper performance is closely releated to th
 windshield will be dewy. Visible dew on the glass will block the view of the driver. When the driver's view is hindered, the risk of an accident is very 
 high. This makes the wipers a very important car enchancement and must be present on all types of vehicles.
 
+![image](https://user-images.githubusercontent.com/101585225/167920751-00b5053e-5bbe-4dd1-9497-12b6be0975d1.png) 
+
 # HISTORY
 
 

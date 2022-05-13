@@ -13,6 +13,15 @@
 
 ![image](https://user-images.githubusercontent.com/101585225/167920751-00b5053e-5bbe-4dd1-9497-12b6be0975d1.png)              ![image](https://user-images.githubusercontent.com/101585225/167920843-8d7377ca-7076-4646-b4c8-b8b2078db6bb.png)
 
+A system is associated with following attributes:
+```
+ * STM32F407 Discovery Board
+ * Push Button
+ * LEDS
+ * Resistors
+ * Power Supply
+```
+
 ## Guidelines
 * Use STM32cube IDE software for simulation purpose and for coding purpose use the visual studio code.
 * Return appropriate results from all the functions.

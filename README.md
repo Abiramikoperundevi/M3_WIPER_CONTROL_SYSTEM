@@ -12,3 +12,7 @@
 ### BUILD-LINUX
 
 [![Build CI -Linux](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build_linux.yml)
+
+### BUILD WINDOWS
+
+[![Build CI - Windows](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build-Windows.yml)

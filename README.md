@@ -22,6 +22,10 @@
 
 # BADGES
 
+### CODACY STATIC CODE ANALYSIS
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f8bd6e49c42d40faaaff8b461a53309a)](https://www.codacy.com/gh/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
+
 ### ANALYSIS
 
 

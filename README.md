@@ -7,7 +7,7 @@
 ### ANALYSIS
 
 
-[![Analysis](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/c-cpp.yml)
+[![Analysis](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Analysis.yml)
 
 ### BUILD-LINUX
 

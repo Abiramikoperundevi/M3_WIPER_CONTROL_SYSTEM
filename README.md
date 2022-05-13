@@ -28,9 +28,9 @@
 
 ### CODIGA STATIC ANALYSIS
 
-[[!Code Quality score]https://api.codiga.io/project/33385/score/svg]
+![Code Quality score](https://api.codiga.io/project/33385/score/svg)
 
-[[!Code Score]https://api.codiga.io/project/33385/status/svg]
+![Code Score](https://api.codiga.io/project/33385/status/svg)
 ### ANALYSIS
 
 

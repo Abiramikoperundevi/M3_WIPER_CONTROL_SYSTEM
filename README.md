@@ -28,3 +28,7 @@
 ### GIT INSPECTOR
 
 [![Contribution Check - Git Inspector](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml)
+
+### UNIT TESTING
+
+[![Unit testing](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Unit_Testing.yml)

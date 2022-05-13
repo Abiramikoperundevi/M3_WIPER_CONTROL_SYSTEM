@@ -75,6 +75,14 @@ It comes with an ST-LINK embedded debug tool, an ST-MEMS digital accelerometer, 
 
 Assume that the automobiles is the microcontroller. If the button is hit, the first led (red) will turn on, clicking again the wiper will start and the second led (blue) will turn in for a desired rate. If the button os pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. the microcontroller (vehicle) is turned off after the fifth click.
 
+# FLOW CHART & BLOCK DIAGRAM
+![Block Diagram](https://user-images.githubusercontent.com/101585225/168215360-b0b14917-2752-45fd-942f-cbd19e5a4f27.png)
+![Low Level Flow](https://user-images.githubusercontent.com/101585225/168215376-9fd63f1c-6206-43d8-adb3-6e9cf377cd0c.png)
+
+
+![high Level Flow](https://user-images.githubusercontent.com/101585225/168215385-40735ad4-8754-4f7b-9659-3c241f50a658.png)
+
+
 # USES
 
 * This microcontroller is utilised in printing and scanning machines, heat ventilation, air conditioning and security system.

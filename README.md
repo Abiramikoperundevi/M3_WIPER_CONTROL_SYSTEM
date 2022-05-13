@@ -24,3 +24,7 @@
 ### CPPCHECK ACTION
 
 [![cppcheck-action](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cpp%20check.yml)
+
+### GIT INSPECTOR
+
+[![Contribution Check - Git Inspector](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Git_inspector.yml)

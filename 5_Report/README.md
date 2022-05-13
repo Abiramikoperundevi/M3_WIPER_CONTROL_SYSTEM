@@ -74,6 +74,9 @@ Application is researched from various resource like from Google, Youtube and re
 The STM32F407 Kit takes advantage of the high-performance STM32F407 microcontrollers capabilities to mak eit simple for users to create audio-based application. 
 It comes with an ST-LINK embedded debug tool, an ST-MEMS digital accelerometer, a digital microphone, an audio DAC with integrated class D speaker driver, LEDs, pushbuttons and USB OTG micro-AB connector. Ethernet connectivity, an LCD Display and other features have been added ti the STM32F4 DISCOVERY kit. the STM32F405xx and STM32F407xx families are built around the high performance Arm cortex -M4 bit RISC core, which runs at up to 168 MHz.
 
+![Screenshot (238)](https://user-images.githubusercontent.com/101585225/168331073-fdb453f8-e02a-4370-be34-fae6331b28c5.png)
+
+
 ## FEATURES OF STM32F407VG MICROCONTROLLER
 
 * Up to 1 Mbyte of flash memory

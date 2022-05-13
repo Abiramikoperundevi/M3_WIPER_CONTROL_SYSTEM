@@ -84,6 +84,9 @@ It comes with an ST-LINK embedded debug tool, an ST-MEMS digital accelerometer, 
 * 512 bytes of OTP memory.
 * Flexible static memory controller supporting Compact flash SRAM, PSRAM, NOR and NAND memories
 
+![image](https://user-images.githubusercontent.com/101585225/168332082-c741a15d-de32-4059-8744-0de9a60c0aef.png)
+
+
 
 # WORKING PRINCIPLE
 
